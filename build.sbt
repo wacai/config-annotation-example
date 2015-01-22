@@ -6,7 +6,7 @@ organization := "com.wacai"
 
 scalaVersion := "2.11.5"
 
-libraryDependencies += "com.wacai" %% "config-annotation" % "0.3.0-SNAPSHOT"
+libraryDependencies += "com.wacai" %% "config-annotation" % "0.3.0"
 
 libraryDependencies += "com.typesafe.akka" % "akka-actor_2.11" % "2.3.9"
 
