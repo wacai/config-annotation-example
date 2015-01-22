@@ -1,0 +1,4 @@
+.idea/
+target/
+conf/settings.conf
+conf/kafka.conf
